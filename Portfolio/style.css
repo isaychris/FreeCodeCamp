@@ -1,0 +1,29 @@
+.background-img {
+  background-image: url("https://i.imgur.com/Uuji0Er.jpg");
+}
+
+.navpadding {
+  padding-right: 25px;
+}
+
+body {
+  margin: 0px;
+}
+
+.table-page {
+  margin: 50px 100px 50px 100px;
+}
+
+.text-settings {
+  font-family: Lobster;
+}
+
+.imgsize {
+  width:200px;
+  height:200px;
+}
+
+.headertxt {
+  color: white !important;
+  text-align: center;
+}
